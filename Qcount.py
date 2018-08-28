@@ -1,6 +1,8 @@
 """
 Q Squared Solutions Technical Assessment Task 1
 Kyle Pickford
+Python 2.7 (2.7.13)
+
 
 The function 'Qcount' below completes the required calculations.
 It takes in a single string which it expects to be valid data. 

@@ -2,6 +2,8 @@ import Qcount as QQ
 
 """
 Kyle Pickford
+Python 2.7 (2.7.13)
+
 Simple test cases for functions in Qcount
 """
 
